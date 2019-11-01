@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://545646733.github.io/</id>
     <title>听风</title>
-    <updated>2019-11-01T06:52:13.289Z</updated>
+    <updated>2019-11-01T07:16:26.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://545646733.github.io/"/>
     <link rel="self" href="https://545646733.github.io//atom.xml"/>
@@ -10,4 +10,19 @@
     <logo>https://545646733.github.io//images/avatar.png</logo>
     <icon>https://545646733.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 听风</rights>
+    <entry>
+        <title type="html"><![CDATA[新知识推送预告——2019年11月1号]]></title>
+        <id>https://545646733.github.io//post/xin-zhi-shi-tui-song-yu-gao-2019-nian-11-yue-1-hao</id>
+        <link href="https://545646733.github.io//post/xin-zhi-shi-tui-song-yu-gao-2019-nian-11-yue-1-hao">
+        </link>
+        <updated>2019-11-01T06:53:26.000Z</updated>
+        <content type="html"><![CDATA[<p>今天是听风成立的第一天。<br>
+接下来的两周内，将会陆续更新以下的新知识：</p>
+<ul>
+<li>初夜权</li>
+<li>药物剂量</li>
+<li>安慰剂</li>
+</ul>
+]]></content>
+    </entry>
 </feed>
