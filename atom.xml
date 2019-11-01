@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://545646733.github.io/</id>
     <title>听风</title>
-    <updated>2019-11-01T07:53:36.387Z</updated>
+    <updated>2019-11-01T07:58:07.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://545646733.github.io/"/>
     <link rel="self" href="https://545646733.github.io//atom.xml"/>
@@ -19,9 +19,11 @@
         <content type="html"><![CDATA[<p>今天是听风成立的第一天。</p>
 <p>接下来的两周内，将会陆续更新以下的知识点：</p>
 <ul>
-<li><strong>初夜权</strong></li>
-<li><strong>药物剂量</strong></li>
-<li><strong>安慰剂</strong></li>
+<li><strong>历史</strong><br>
+* 初夜权</li>
+<li><strong>科学</strong><br>
+* 药剂用量<br>
+* 安慰剂</li>
 </ul>
 ]]></content>
     </entry>
