@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://545646733.github.io/</id>
-    <title>Gridea</title>
-    <updated>2019-11-01T05:42:25.879Z</updated>
+    <title>听风</title>
+    <updated>2019-11-01T05:45:05.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://545646733.github.io/"/>
     <link rel="self" href="https://545646733.github.io//atom.xml"/>
-    <subtitle>一个涨知识的小百科全书</subtitle>
+    <subtitle>一个可以帮助你涨知识的小百科全书</subtitle>
     <logo>https://545646733.github.io//images/avatar.png</logo>
     <icon>https://545646733.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 听风</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://545646733.github.io//post/hello-gridea</id>
